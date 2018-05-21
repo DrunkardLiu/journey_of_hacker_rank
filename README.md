@@ -1,2 +1,16 @@
-# journey_of_hacker_rank
-Personal practice for HackerRank
+# Journey Of HackerRank
+Personal practice for HackerRank http://www.github.com/
+
+## Explore HackerRank Skills
+
+### PROBLEM SOLVING
+#### Algorithms
+
+#### Data Structures
+
+#### Mathematics
+
+
+## Tutorials
+
+### 10 Days of Javascript
